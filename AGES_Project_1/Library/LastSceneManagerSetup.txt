@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SnowMansLand.unity
+- path: Assets/Scenes/SnowMansLand.unity
   isLoaded: 1
   isActive: 1
